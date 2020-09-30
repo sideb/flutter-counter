@@ -1,10 +1,10 @@
-# contador
+# Contador
 
-A new Flutter project.
+Sample Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. It expands the default sample project with buttons to add, substract and reset the counter.
 
 A few resources to get you started if this is your first Flutter project:
 
